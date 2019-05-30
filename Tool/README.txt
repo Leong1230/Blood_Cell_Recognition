@@ -1,1 +1,1 @@
-将整个文件夹拷贝到一个路径没有中文的路径下（注意"桌面"是中文），然后点击labelImg.exe等待几秒软件就会打开，之后按照label_Instructor_Blood_Cell.docx操作
+# 灏嗘暣涓枃浠跺す鎷疯礉鍒颁竴涓矾寰勬病鏈変腑鏂囩殑璺緞涓嬶紙娉ㄦ剰"妗岄潰"鏄腑鏂囷級锛岀劧鍚庣偣鍑籰abelImg.exe绛夊緟鍑犵杞欢灏变細鎵撳紑锛屼箣鍚庢寜鐓abel_Instructor_Blood_Cell.docx鎿嶄綔
